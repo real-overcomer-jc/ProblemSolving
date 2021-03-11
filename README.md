@@ -109,30 +109,18 @@ Problem|Solutions
 [compression2](https://programmers.co.kr/learn/courses/30/lessons/17684)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/compression2.cpp) Python Java
 [sort files by name](https://programmers.co.kr/learn/courses/30/lessons/17686)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/sort_files_by_name.cpp) Python Java
 [n radix game](https://programmers.co.kr/learn/courses/30/lessons/17687)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/n_radix_game.cpp) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
-[]()|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/) Python Java
+[drawing a doll](https://programmers.co.kr/learn/courses/30/lessons/64061)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/drawing_a_doll.cpp) Python Java
+[unfinish player](https://programmers.co.kr/learn/courses/30/lessons/42576)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/unfinish_player.cpp) Python Java
+[practice test](https://programmers.co.kr/learn/courses/30/lessons/42840)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/practice_test.cpp) Python Java
+[training cloth](https://programmers.co.kr/learn/courses/30/lessons/42862)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/training_cloth.cpp) Python Java
+[kth-number](https://programmers.co.kr/learn/courses/30/lessons/42748)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/kth-number.cpp) Python Java
+[pocketmon](https://programmers.co.kr/learn/courses/30/lessons/1845)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/pocketmon.cpp) Python Java
+[pressing keypad](https://programmers.co.kr/learn/courses/30/lessons/67256)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/pressing_keypad.cpp) Python Java
+[making prime numbers](https://programmers.co.kr/learn/courses/30/lessons/12977)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/making_prime_numbers.cpp) Python Java
+[budget](https://programmers.co.kr/learn/courses/30/lessons/12982)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/budget.cpp) Python Java
+[secret map](https://programmers.co.kr/learn/courses/30/lessons/17681)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/secret_map.cpp) Python Java
+[failure rate](https://programmers.co.kr/learn/courses/30/lessons/42889)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/failure_rate.cpp) Python Java
+[dart game](https://programmers.co.kr/learn/courses/30/lessons/17682)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/dart_game.cpp) Python Java
 
 
 
