@@ -1,5 +1,5 @@
 # Programmers (https://programmers.co.kr/)
-Title|Solutions
+Problem|Solutions
 ---|---
 [counting rooms](https://programmers.co.kr/learn/courses/30/lessons/49190)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/counting_rooms.cpp) Python Java
 [exploring mystical ruins](https://programmers.co.kr/learn/courses/30/lessons/1834)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/exploring_mystical_ruins.cpp) Python Java
