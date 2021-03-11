@@ -126,4 +126,30 @@ Problem|Solutions
 
 
 # Baekjoon Online Judge (https://www.acmicpc.net/)
-* 
+Problem|Solutions
+---|---
+[1395](https://www.acmicpc.net/problem/1395)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/1395.cpp) Python Java
+[1463](https://www.acmicpc.net/problem/1463)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/1463.cpp) Python Java
+[1520](https://www.acmicpc.net/problem/1520)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/1520.cpp) Python Java
+[1697](https://www.acmicpc.net/problem/1697)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/1697.cpp) Python Java
+[2188](https://www.acmicpc.net/problem/2188)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/2188.cpp) Python Java
+[2293](https://www.acmicpc.net/problem/2293)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/2293.cpp) Python Java
+[2912](https://www.acmicpc.net/problem/2912)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/2912.cpp) Python Java
+[3055](https://www.acmicpc.net/problem/3055)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/3055.cpp) Python Java
+[6549](https://www.acmicpc.net/problem/6549)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/6549.cpp) Python Java
+[7626](https://www.acmicpc.net/problem/7626)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/7626.cpp) Python Java
+[8462](https://www.acmicpc.net/problem/8462)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/8462.cpp) Python Java
+[9251](https://www.acmicpc.net/problem/9251)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/9251.cpp) Python Java
+[10164](https://www.acmicpc.net/problem/10164)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/10164.cpp) Python Java
+[10844](https://www.acmicpc.net/problem/10844)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/10844.cpp) Python Java
+[10999](https://www.acmicpc.net/problem/10999)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/10999.cpp) Python Java
+[11266](https://www.acmicpc.net/problem/11266)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/11266.cpp) Python Java
+[11408](https://www.acmicpc.net/problem/11408)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/11408.cpp) Python Java
+[11657](https://www.acmicpc.net/problem/11657)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/11657.cpp) Python Java
+[12844](https://www.acmicpc.net/problem/12844)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/12844.cpp) Python Java
+[13547](https://www.acmicpc.net/problem/13547)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/13547.cpp) Python Java
+[13548](https://www.acmicpc.net/problem/13548)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/13548.cpp) Python Java
+[14502](https://www.acmicpc.net/problem/14502)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/14502.cpp) Python Java
+[14863](https://www.acmicpc.net/problem/14863)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/14863.cpp) Python Java
+[15483](https://www.acmicpc.net/problem/15483)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/15483.cpp) Python Java
+[19238](https://www.acmicpc.net/problem/19238)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/acmicpc/19238.cpp) Python Java
