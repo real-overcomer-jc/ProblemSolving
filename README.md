@@ -77,7 +77,7 @@ Problem|Solutions
 [compression](https://programmers.co.kr/learn/courses/30/lessons/60057)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/compression.cpp) Python Java
 [coloring book](https://programmers.co.kr/learn/courses/30/lessons/1829)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/coloring_book.cpp) Python Java
 [triangle snail](https://programmers.co.kr/learn/courses/30/lessons/68645)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/triangle_snail.cpp) Python Java
-[menu renewal](https://programmers.co.kr/learn/courses/30/lessons/72411)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/menu_renewal.py) Python Java
+[menu renewal](https://programmers.co.kr/learn/courses/30/lessons/72411)|C++ [Python](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/menu_renewal.py) Java
 [more spicy](https://programmers.co.kr/learn/courses/30/lessons/42626)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/more_spicy.cpp) Python Java
 [prime number](https://programmers.co.kr/learn/courses/30/lessons/42839)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/prime_number.cpp) Python Java
 [joystick](https://programmers.co.kr/learn/courses/30/lessons/42860)|[C++](https://github.com/real-overcomer-jc/ProblemSolving/blob/main/programmers/joystick.cpp) Python Java
