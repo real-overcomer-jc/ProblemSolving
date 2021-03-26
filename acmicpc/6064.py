@@ -1,7 +1,7 @@
 from math import gcd
 
 def lcm(a,b):
-    return (a*b)//gcd(a,b)
+    return a*(b//gcd(a,b))
 
 for _ in range(int(input())):
     N,M,x,y = map(int,input().split())
